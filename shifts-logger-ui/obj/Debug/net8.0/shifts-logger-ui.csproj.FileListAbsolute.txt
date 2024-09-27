@@ -1,0 +1,15 @@
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/bin/Debug/net8.0/shifts-logger-ui
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/bin/Debug/net8.0/shifts-logger-ui.deps.json
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/bin/Debug/net8.0/shifts-logger-ui.runtimeconfig.json
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/bin/Debug/net8.0/shifts-logger-ui.dll
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/bin/Debug/net8.0/shifts-logger-ui.pdb
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/obj/Debug/net8.0/shifts-logger-ui.GeneratedMSBuildEditorConfig.editorconfig
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/obj/Debug/net8.0/shifts-logger-ui.AssemblyInfoInputs.cache
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/obj/Debug/net8.0/shifts-logger-ui.AssemblyInfo.cs
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/obj/Debug/net8.0/shifts-logger-ui.csproj.CoreCompileInputs.cache
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/obj/Debug/net8.0/shifts-logger-ui.sourcelink.json
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/obj/Debug/net8.0/shifts-logger-ui.dll
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/obj/Debug/net8.0/refint/shifts-logger-ui.dll
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/obj/Debug/net8.0/shifts-logger-ui.pdb
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/obj/Debug/net8.0/shifts-logger-ui.genruntimeconfig.cache
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/obj/Debug/net8.0/ref/shifts-logger-ui.dll
