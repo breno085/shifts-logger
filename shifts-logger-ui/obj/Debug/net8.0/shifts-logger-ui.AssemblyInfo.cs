@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("shifts-logger-ui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03042159c093cb4a332a861d7882da748be63795")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c2abe9d9fa6f38e9e5f4696aa9eef3f1b3385ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("shifts-logger-ui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("shifts-logger-ui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
