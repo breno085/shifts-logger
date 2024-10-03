@@ -13,3 +13,7 @@
 /home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/obj/Debug/net8.0/shifts-logger-ui.pdb
 /home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/obj/Debug/net8.0/shifts-logger-ui.genruntimeconfig.cache
 /home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/obj/Debug/net8.0/ref/shifts-logger-ui.dll
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/obj/Debug/net8.0/shifts-logger-ui.csproj.AssemblyReference.cache
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/bin/Debug/net8.0/RestSharp.dll
+/home/brenoacioli/Documents/shifts-logger/shifts-logger-ui/obj/Debug/net8.0/shifts-l.7C16DC47.Up2Date

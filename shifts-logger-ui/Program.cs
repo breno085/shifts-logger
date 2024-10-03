@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using shifts_logger_ui;
+
+ShiftService workerShift = new ShiftService();
+
+workerShift.GetWorkerLog(1);
