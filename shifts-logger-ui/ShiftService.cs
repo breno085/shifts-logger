@@ -1,13 +1,12 @@
 using RestSharp;
 using Newtonsoft.Json;
-using System;
 using shifts_logger_ui.Models;
 
 namespace shifts_logger_ui;
 
 public class ShiftService
 {
-    public void GetWorkerLog(int workerId)
+    public static void GetWorkerLog(int workerId)
     {
         var client = new RestClient("http://localhost:5123");
         var request = new RestRequest($"api/ShiftLogger/{workerId}");
@@ -27,7 +26,7 @@ public class ShiftService
         }
     }
 
-    public void GetWorkersLogs()
+    public static void GetWorkersLogs()
     {
         var client = new RestClient("http://localhost:5123");
         var request = new RestRequest($"api/ShiftLogger/GetAll");
@@ -52,10 +51,10 @@ public class ShiftService
         }
     }
 
-    public void CreateWorkerLog(Worker newWorkerLog)
+    public static void CreateWorkerLog(Worker newWorkerLog)
     {
         var client = new RestClient("http://localhost:5123");
-        var request = new RestRequest("api/ShiftLogger", Method.Get);
+        var request = new RestRequest("api/ShiftLogger", Method.Post);
 
         var jsonBody = JsonConvert.SerializeObject(newWorkerLog);
         request.AddParameter("application/json", jsonBody, ParameterType.RequestBody);
@@ -73,7 +72,7 @@ public class ShiftService
         }
     }
 
-    public void UpdateWorkerLog(int workerId, Worker updatedWorkerLog)
+    public static void UpdateWorkerLog(int workerId, Worker updatedWorkerLog)
     {
         var client = new RestClient("http://localhost:5123");
         var request = new RestRequest($"api/ShiftLogger/{workerId}", Method.Put);
@@ -94,7 +93,7 @@ public class ShiftService
         }
     }
 
-    public void DeleteWorkerLog(int workerId)
+    public static void DeleteWorkerLog(int workerId)
     {
         var client = new RestClient("http://localhost:5123");
         var request = new RestRequest($"api/ShiftLogger/{workerId}", Method.Delete);
